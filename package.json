@@ -1,0 +1,29 @@
+{
+  "name": "my_web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "@material-ui/icons": "^3.0.1",
+    "classnames": "^2.2.6",
+    "cryptico": "^1.0.2",
+    "npm": "^6.4.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "recharts": "^1.2.0",
+    "redux": "^4.0.0",
+    "rsa-json": "^0.2.1",
+    "to": "^0.2.9",
+    "typeface-roboto": "0.0.54",
+    "update": "^0.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
